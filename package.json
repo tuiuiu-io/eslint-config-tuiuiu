@@ -1,0 +1,28 @@
+{
+  "name": "eslint-config-tuiuiu",
+  "version": "0.1.1",
+  "description": "ESLint config rules for tuiuiu JavaScript components",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tuiuiu-io/eslint-config-tuiuiu.git"
+  },
+  "keywords": [
+    "eslint",
+    "tuiuiu"
+  ],
+  "author": "R. Moorman <rob@moori.nl>",
+  "bugs": {
+    "url": "https://github.com/tuiuiu-io/eslint-config-tuiuiu/issues"
+  },
+  "homepage": "https://github.com/tuiuiu-io/eslint-config-tuiuiu#readme",
+  "dependencies": {
+    "eslint-config-airbnb": "^9.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^2.12.0"
+  }
+}
